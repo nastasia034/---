@@ -50,7 +50,8 @@
 
 Строение подводного кабеля:
 
-![image](https://user-images.githubusercontent.com/85163822/120634644-26bb6d80-c474-11eb-9c59-a710f9dd0f0d.png)
+![image](https://user-images.githubusercontent.com/85163822/120790008-0dc9bf80-c53b-11eb-8ea3-f0465e7b2eee.png)
+
 
 Подводный кабель в разрезе:
 1. Полиэтилен
