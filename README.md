@@ -117,5 +117,7 @@
 Источники:
 https://www.moyo.ua/news/kak_rabotaet_router_princip_deyistviya_i_ustroyistvo_marshrutizatora_v_6_razdelah.html
 
+https://anisim.org/articles/chto-takoe-router-i-dlya-chego-on-nuzhen/#:~:text=Роутер%20—%20это%20устройство%2C%20которое,кабеля%20или%20по%20вай%20фай
+
 
 
